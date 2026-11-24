@@ -156,7 +156,7 @@ model_build/
 
 ## Technologies
 
-- Python 3.7
+- Python
 - Jupyter Notebook
 - SQL and Oracle Autonomous Data Warehouse
 - Oracle Object Storage
